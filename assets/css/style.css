@@ -1,0 +1,40 @@
+body{
+    width:960px;
+}
+#titlebox{
+    height: 200px;
+    width: 400px;
+    background-color: #c67229;
+    display: table-cell;
+    vertical-align:middle;
+    text-align:center;
+    color: white;
+    font-size: 40px
+}
+#parentTitleBox{
+    margin:35px auto auto 20px;
+}
+#instructionBox{
+    margin: 20px auto auto 15px;
+    width: 600px;
+    height: 500px;
+    background-color: #f9e4cd;
+}
+#parentRawW1Box{
+    margin: 35px auto auto 10px;
+    width: 500px;
+    height: 250px;
+    background-color: orange;
+    clear: both;
+}
+.randomNumBox{
+    width:55%;
+    height: 100%;
+    background-color: blue;
+}
+.winLoseBox{
+    width: 10px;
+    height: 100px;
+    float: right;
+    background-color: blue;
+    }
